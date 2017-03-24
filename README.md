@@ -9,7 +9,7 @@ Accepts the following regular expression:
 
 For example, `R-10.5V30`
 
-Unimplemented:
+Notes:
 
 - No self tuning of PID variable (varying mass)
 - No music playing
